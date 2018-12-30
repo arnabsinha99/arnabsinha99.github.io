@@ -52,3 +52,9 @@
   padding : 2px;
 }
 
+#myname
+{
+	align-content: center;
+	color: white;
+	font-family: 'Dancing Script', cursive;
+}
