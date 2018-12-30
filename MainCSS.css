@@ -51,3 +51,10 @@
   padding: 10px;    
   padding : 2px;
 }
+
+span
+{
+	align-content: center;
+	color: white;
+	font-family: 'Dancing Script', cursive;
+}
