@@ -31,5 +31,13 @@
   color: white;
   width:40px;
   margin-left : 10px;
+  margin-right: 20px;
+}
+
+.fa-linkedin{
+  background: #007bb5;
+  color: white;
+  width: 40px;
+  margin-left : 10px;
 }
 
