@@ -1,4 +1,7 @@
 # Site-honn-te
+
+The name is derived from a Spanish word meaning "Personal website". The name sounds unique, hence used. May come up with some other name later.
+
 A necessity of every website developer. Personal website. 
 
 Courtesy of Github logo : https://github.com/logos 
