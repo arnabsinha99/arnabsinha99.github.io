@@ -1,55 +1,16 @@
-.navbar li img
+body
+{
+  background-color: black;
+  color: #55ACEE;
+}
+
+#mylogo
 {
 	border-radius: 40%;
-	margin-top: 5px;
+  margin-top: 7px;
+  margin-bottom: -5px;
 	margin-right: 20px;
 	margin-left: 1px;
-}
-
-.fa {
-  border-radius: 10%;
-  padding: 9px;
-  font-size: 30px;
-  width: 50px;
-  text-align: center;
-  text-decoration: none;
-}
-
-.fa:hover {
-  opacity: 0.7;
-}
-
-.fa-facebook {
-  background: #3B5998;
-  color: white;
-  width: 40px;
-  margin-right : 20px;
-  margin-top : 2px;
-}
-
-.fa-twitter {
-  background: #55ACEE;
-  color: white;
-  width:40px;
-  margin-left : 10px;
-  margin-right: 20px;
-  margin-top : 2px;
-}
-
-.fa-linkedin{
-  background: #007bb5;
-  color: white;
-  width: 40px;
-  margin-left : 10px;
-  margin-top : 2px;
-}
-
-#github_image
-{
-  margin-left : 30px;
-  margin-top: 0px;
-  padding: 10px;    
-  padding : 2px;
 }
 
 #theheader
@@ -58,27 +19,15 @@
 	font-family: 'Dancing Script', cursive;
 }
 
-.div1{
-	background-color: #3B5998;
-}
-
-.jumbotron
-{
-  margin-top: 100px;
-	text-align: center;
-}
-
-#Introduction
-{
-  font-family: 'Charm', cursive;
-  font-size: 2em;
-}
-
 #selfpic
 {
-  border: 2px solid black;
-  border-radius: 30%;
+  border: 2px;
+  border-radius: 50%;
+  border-style: ridge;
+  border-width: 17px;
+  border-color: blanchedalmond;
 }
+
 #selfpic:hover
 {
   border:none;
