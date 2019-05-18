@@ -116,7 +116,7 @@ p
 #aboutmehead
 { 
   margin-left: 100px;
-  margin-top: -30px;
+  margin-top: 80px;
   color: antiquewhite;
 }
 
@@ -161,6 +161,34 @@ ul#horlist {
   }
   #aboutmeimg
   {
-    margin-left: 90px;
-    margin-top: 90px;
+    margin-left: 200px;
+    margin-top: 150px;
   }
+
+  #educationhead
+  {
+    margin-left: 100px;
+    color: antiquewhite;
+  }
+
+h3
+{
+  color: antiquewhite;
+}  
+pre
+{
+  color: white;
+}
+#educontent
+{
+  font-size: 18px;
+  margin-left: 0px;
+  font-family: 'Arvo', serif;
+  color: sandybrown;
+}
+
+#educontent2
+{
+  font-size: 16px;
+  margin-left: 0px;
+}

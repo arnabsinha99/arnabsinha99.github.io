@@ -19,3 +19,11 @@
 
 //     setInterval(changeHeaderColor, 500);
 // });
+
+const download = document.getElementById("downloadResume");
+
+download.addEventListener('click', request);
+
+function request() {
+    window.location = 'ArnabResume.pdf';
+}
